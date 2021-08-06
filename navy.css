@@ -1,0 +1,56 @@
+ul{
+    
+    
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    height:40px;
+    background-color: #515E63;
+    font-size: 20px;
+    display: block;
+
+    
+}
+li{
+    float:left;
+   
+   
+    
+}
+li>a{
+    
+    display: block;
+
+    padding:0px 18px;
+    text-decoration:none;
+    margin: 10px;
+    color: seashell;
+
+    
+    
+}
+.right{
+    float: right;
+}
+
+
+h1{
+    background-color: #C9D8B6;
+    
+   text-align: center;
+}
+.color1{
+    background-color:#787A91;
+}
+li > a:hover{
+    background-color:#003638;
+    color: powderblue;
+   
+}
+
+    
+
+body{
+    background-color:snow;
+}
